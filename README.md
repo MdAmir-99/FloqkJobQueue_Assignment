@@ -37,5 +37,5 @@ redis-server
 Now run the program:
 ```bash
 npm i 
-npm test
+npm test / npm run dev
 ```
